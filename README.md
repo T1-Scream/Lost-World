@@ -13,5 +13,4 @@ Welcome to VR Shooter "Lost World" !
 
 ### Other</br>
 ．Zombie Pool (Work in process)</br>
-．Bullet Pool</br>
 ．Item Pickup
