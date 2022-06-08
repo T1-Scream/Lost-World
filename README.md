@@ -1,9 +1,6 @@
 # Lost World
 ### Final Year Project</br>
-After I graduate from High Diploma, I was dissatisfied with bugs I doesn't fix at the FYP.</br>
-Now all bug fixes and rewrite some code. (small changes)</br>
-
-修復了在提交FYP後所有發現的bug並進行優化。
+FPS/Zombie/3D</br>
 
 ### Plot</br>
 Welcome to VR Shooter "Lost World" !
